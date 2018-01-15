@@ -1,9 +1,4 @@
 hello
-o
-o
-o
-o
-o
-o
-o
-o
+korawa
+manorom
+joy
